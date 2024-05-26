@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sudoku</title>
+    <title>Zero to Sudoku Hero: Mastering Algorithmic Strategies and Insights</title>
 </head>
 <body>
-    <h1>From Zero to Sudoku Hero: Mastering Algorithmic Strategies and Insights </h1>
+    <h1>Zero to Sudoku Hero: Mastering Algorithmic Strategies and Insights</h1>
     
     <h2>Abstract</h2>
-    <p>In this project from Colby's data structures and algorithm's class, I created a sudoku solver in java. The project challenged our ability with the particular data structure of a stack implemented linked list, which we coded ourselves. By using the stack, I could hold the solution up to a certain point on the board and employ backtracking to return to previous iterations. This was a tough project, so I made use of rigorous testing files for each of my classes.
-    
-  Running the Sudoku.java file will prompt a user to input the number of locked sudoku squares followed by the dimensions. Then, my program will attempt to solve the game using a depth-first search backtracking strategy. 
-    </p>
+    <p>In this project from Colby's data structures and algorithms class, I created a Sudoku solver in Java. The project challenged our ability to implement a stack data structure using a linked list, which we coded ourselves. By using the stack, I could hold the solution up to a certain point on the board and employ backtracking to return to previous iterations. This was a tough project, so I made use of rigorous testing files for each of my classes.</p>
+    <p>Running the Sudoku.java file will prompt a user to input the number of locked Sudoku squares followed by the dimensions. Then, my program will attempt to solve the game using a depth-first search backtracking strategy.</p>
     
     <h2>Results</h2>
     <p><strong>Hypothesis:</strong> After finally completing my Sudoku board, it was time to test it out. I ran an experiment to see whether there is a correlation between the number of locked initial values and the likelihood of finding a solution for the board. I ran a total of fifty boards for differing locked values from 1-50. For increasing locked values, I hypothesized that the percentage of solutions would exponentially decrease. This experiment was conducted in Sudoku tests.</p>
@@ -59,7 +57,7 @@
             <td>0%</td>
         </tr>
     </table>
-    
+
     <p>From the graph and experiment, there's a clear negative correlation between the number of locked Sudoku squares and the success rate of solving the puzzles. The dropoff is sharp, notably between 20 and 30 locked squares, where the success rate drops by 76%. This outcome matches my hypothesis, though I did not expect the dropoff to be so stark. The results are very intriguing!</p>
     
     <h2>Extensions</h2>
@@ -87,4 +85,3 @@
     <p>Received help from Professor Bender on the Validvalue method. I also received help from TA Sam Polyakov with my ValidSolution method.</p>
 </body>
 </html>
-
