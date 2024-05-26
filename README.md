@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Zero to Sudoku Hero: Mastering Algorithmic Strategies and Insights</title>
@@ -57,6 +56,7 @@
             <td>0%</td>
         </tr>
     </table>
+<img width="425" alt="Screenshot 2024-05-26 at 10 15 13 AM" src="https://github.com/philipaidanbooth/Sudoku/assets/140553270/9e098940-982a-4ddf-ba5f-e4c632d3b89d">
 
     <p>From the graph and experiment, there's a clear negative correlation between the number of locked Sudoku squares and the success rate of solving the puzzles. The dropoff is sharp, notably between 20 and 30 locked squares, where the success rate drops by 76%. This outcome matches my hypothesis, though I did not expect the dropoff to be so stark. The results are very intriguing!</p>
     
