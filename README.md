@@ -4,7 +4,8 @@
     <title>Sudoku</title>
 </head>
 <body>
-    <h1>Completing Sudoku Faster than my Grandpa</h1>
+    <h1>From Zero to Sudoku Hero: Mastering Algorithmic Strategies and Insights </h1>
+    
     <h2>Abstract</h2>
     <p>In this project from Colby's data structures and algorithm's class, I created a sudoku solver in java. The project challenged our ability with the particular data structure of a stack implemented linked list, which we coded ourselves. By using the stack, I could hold the solution up to a certain point on the board and employ backtracking to return to previous iterations. This was a tough project, so I made use of rigorous testing files for each of my classes.
     
