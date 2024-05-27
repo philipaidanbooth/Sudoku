@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Zero to Sudoku Hero: Mastering Algorithmic Strategies and Insights</title>
